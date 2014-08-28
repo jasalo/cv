@@ -1,0 +1,32 @@
+body {-webkit-font-smoothing: antialiased;background:#f8f8f8;padding:20px 0;color:#333;font-family:'Source Sans Pro',Helvetica,sans-serif;}
+a, a:visited {color:#08b;text-decoration:none;}
+a:hover {color:#258;}
+h1,h2,h3,h4,h5,h6 {font-weight:300;margin:8px 0;}
+.container {width: 760px;margin:0 auto;}
+.btn {padding:8px 15px;border-radius:2px;border-bottom:2px solid rgba(0,0,0,0.1);}
+.btn-main {}
+.hv {border:1px solid #eee;background:#fff;padding:20px 30px;border-radius:4px;}
+.hv h1 {text-align:center;font-weight:300;margin:0 0 15px;letter-spacing:-1px;font-size:34px;}
+.clearfix {clear:both;}
+.super-summary {border-bottom:1px solid #eee;padding:15px 0;border-top:1px solid #eee;}
+.super-summary .left {float:left;width:230px;}
+.super-summary .left img.profile {border-radius:500px;width:200px;}
+.super-summary .right {float:left;width:460px;}
+.super-summary .right h2 {line-height:23px;font-size:27px;}
+.super-summary .right h2 small {font-size:19px;}
+.super-summary .right h2 small {font-size:17px;color:#555;}
+.super-summary .right h3 {line-height:21px;font-size:21px;font-weight:400;color:#444;}
+.super-summary .right h3 small {font-size:17px;color:#555;font-weight:300;}
+
+.bottom .left {float:left;width:230px;}
+.bottom .right {float:left;width:460px;text-align:justify;}
+.bottom h4 {font-size:25px;color:#777;font-weight:400;letter-spacing:-0.5px;}
+.bottom h5 {font-size:19px;color:#222;font-weight:bold;line-height:15px;margin:10px 0 3px;}
+.bottom h5 small {color:#888;font-size:14px;}
+.bottom .right p {color:#666;line-height:16px;font-size:15px;margin:10px 0;}
+.bottom .right p strong {color:#222;font-weight:400;}
+.bottom .right p.hint {line-height:12px;color:#222;margin:0;font-weight:400;font-size:17px;}
+ul.skills {list-style-type:none;margin:0;padding-left:0px;}
+ul.skills li {margin:3px 0;font-size:15px;font-weight:bold;color:#444;}
+ul.skills li.secondary {padding-left:8px;font-size:14px;font-weight:normal;}
+.top {}
